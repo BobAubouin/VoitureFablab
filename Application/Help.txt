@@ -1,0 +1,2 @@
+Pour utiliser l'application il faut se rendre sur le site de App Inventor,
+importer un projet et sélectionner le fichier dans le dossier Application.
